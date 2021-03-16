@@ -1,6 +1,8 @@
 # ostep-code
 Code from various chapters in OSTEP (http://www.ostep.org)
 
+For chinese version click [ostep-code](README_CN.md).
+
 * [Introduction](intro)
 
 ## Virtualization
