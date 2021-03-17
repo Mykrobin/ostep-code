@@ -1,0 +1,28 @@
+hello, I am child (pid: 3959)
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 219.228.147.161  netmask 255.255.255.0  broadcast 219.228.147.255
+        inet6 2001:da8:8005:4719:a099:c96:d943:927d  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:8005:4719:25f6:23a6:f241:72a9  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:8005:4719:29bf:4834:a67a:425c  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:8005:4719:18e2:959f:2adc:7e31  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:8005:4719:91ca:a45f:430e:756d  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:8005:4719:9d3a:30f2:d033:48a0  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::a792:9d90:c39a:4846  prefixlen 64  scopeid 0x20<link>
+        inet6 2001:da8:8005:4719:d567:1773:fc66:7762  prefixlen 64  scopeid 0x0<global>
+        inet6 2001:da8:8005:4719:6893:b5f3:12f4:6e32  prefixlen 64  scopeid 0x0<global>
+        ether 4c:cc:6a:bf:55:64  txqueuelen 1000  (Ethernet)
+        RX packets 8819961  bytes 1985308009 (1.9 GB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5939273  bytes 3592904830 (3.5 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 16  memory 0xdff00000-dff20000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 854026  bytes 63562557 (63.5 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 854026  bytes 63562557 (63.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
